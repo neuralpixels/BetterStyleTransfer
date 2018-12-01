@@ -1,0 +1,137 @@
+{
+  "conv1_1/bias": {
+    "filename": "conv1_1_bias",
+    "shape": [
+      64
+    ]
+  },
+  "conv1_1/kernel": {
+    "filename": "conv1_1_kernel",
+    "shape": [
+      3,
+      3,
+      3,
+      64
+    ]
+  },
+  "conv1_2/bias": {
+    "filename": "conv1_2_bias",
+    "shape": [
+      64
+    ]
+  },
+  "conv1_2/kernel": {
+    "filename": "conv1_2_kernel",
+    "shape": [
+      3,
+      3,
+      64,
+      64
+    ]
+  },
+  "conv2_1/bias": {
+    "filename": "conv2_1_bias",
+    "shape": [
+      128
+    ]
+  },
+  "conv2_1/kernel": {
+    "filename": "conv2_1_kernel",
+    "shape": [
+      3,
+      3,
+      64,
+      128
+    ]
+  },
+  "conv2_2/bias": {
+    "filename": "conv2_2_bias",
+    "shape": [
+      128
+    ]
+  },
+  "conv2_2/kernel": {
+    "filename": "conv2_2_kernel",
+    "shape": [
+      3,
+      3,
+      128,
+      128
+    ]
+  },
+  "conv3_1/bias": {
+    "filename": "conv3_1_bias",
+    "shape": [
+      256
+    ]
+  },
+  "conv3_1/kernel": {
+    "filename": "conv3_1_kernel",
+    "shape": [
+      3,
+      3,
+      128,
+      256
+    ]
+  },
+  "conv3_2/bias": {
+    "filename": "conv3_2_bias",
+    "shape": [
+      256
+    ]
+  },
+  "conv3_2/kernel": {
+    "filename": "conv3_2_kernel",
+    "shape": [
+      3,
+      3,
+      256,
+      256
+    ]
+  },
+  "conv3_3/bias": {
+    "filename": "conv3_3_bias",
+    "shape": [
+      256
+    ]
+  },
+  "conv3_3/kernel": {
+    "filename": "conv3_3_kernel",
+    "shape": [
+      3,
+      3,
+      256,
+      256
+    ]
+  },
+  "conv3_4/bias": {
+    "filename": "conv3_4_bias",
+    "shape": [
+      256
+    ]
+  },
+  "conv3_4/kernel": {
+    "filename": "conv3_4_kernel",
+    "shape": [
+      3,
+      3,
+      256,
+      256
+    ]
+  },
+  "conv4_1/bias": {
+    "filename": "conv4_1_bias",
+    "shape": [
+      512
+    ]
+  },
+  "conv4_1/kernel": {
+    "filename": "conv4_1_kernel",
+    "shape": [
+      3,
+      3,
+      256,
+      512
+    ]
+  }
+}
